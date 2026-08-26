@@ -22,12 +22,12 @@ The system manages multi-service operations including Pre-Orders, Item Sharing, 
 ---
 
 ## 📁 Repository Files Included
-Rekap Order [https://docs.google.com/spreadsheets/d/1EVxXSXNBN9i4O5g_YcI6fy1Md4A7bfcIGWj--z55j_E/edit?gid=111701002#gid=111701002)]
+Rekap Order [https://docs.google.com/spreadsheets/d/1EVxXSXNBN9i4O5g_YcI6fy1Md4A7bfcIGWj--z55j_E]
 * `Rekap_Order_GROUP_ORDER` — Master ledger for customer group orders and payment methods (MOP).
 * `Rekap_Order_PRE-ORDER` & `_SHARING` — Payment logs for pre-order deposits and cost-sharing items.
 * `Rekap_Order_RENTAL_LIGHTSTICK` — Booking ledger and security deposit tracking for concert item rentals.
 
-TAGIHAN TAX [https://docs.google.com/spreadsheets/d/1Vbo461sH0QFzQwQJkCNK-td6e2mbLbwFxpk8Cc3D9W8/edit?gid=1939497881#gid=1939497881]
+TAGIHAN TAX [https://docs.google.com/spreadsheets/d/1Vbo461sH0QFzQwQJkCNK-td6e2mbLbwFxpk8Cc3D9W8]
 * `TAGIHAN_TAX` — Individual tax billing spreadsheets for Japan-to-Indonesia EMS & Handcarry shipments.
 
 ---
